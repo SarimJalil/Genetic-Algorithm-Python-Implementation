@@ -1,6 +1,8 @@
 # Genetic-Algorithm-Python-Implementation
 This repo contains a python implementation of a genetic algorithm commonly known as GA
 
+This was a course assignment so appologies for bad code practices
+
 Requirements/Pre-requisites
 Python3
 
